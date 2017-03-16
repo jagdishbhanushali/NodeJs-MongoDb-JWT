@@ -25,8 +25,7 @@ How to use
     }
 
 2)Use token for all the request by setting header parameter
-   
-   HEADER:{ x-access-token: "token got from above step"}
+    HEADER:{ x-access-token: "token got from above step"}
    
    
 3) Get all companies
